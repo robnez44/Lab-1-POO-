@@ -28,6 +28,8 @@ public class Main {
            System.out.println(" ");
        }while (opc != 5);
    }
+
+   //Metodos
     public static int suma(int a, int b){
         return a+b;
     }
